@@ -92,175 +92,82 @@
                 <button type="button" class="btn btn-dark m-4">Join us</button>
             </div>
         </div>
-        <div class="container carol" style="background:linear-gradient(-100deg,white 43%, #ffa54f 50%);">
-            <div class="row ">
-                <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
-                    <div class="carousel-indicators">
-                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                    </div>
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <div class="row ">
-                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
-                                    <div class="card h-100 bg-dark text-light">
-                                        <div class="row d-flex justify-content-center">
-                                            <img src="images/merub.jpeg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                                        </div>
 
-                                        <div class="card-body">
-                                            <h5 class="card-title">Merub says,</h5>
-                                            <p class="card-text"><i class="fa fa-quote-left"></i>In my life, i've had to contract different organizations to do different events due to my nature of work. But since i met Kanfetti events, i have had to look no more<i class="fa fa-quote-right"></i></p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
-                                    <div class="card h-100 bg-dark text-light">
-                                        <div class="row d-flex justify-content-center">
-                                            <img src="images/helvin.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                                        </div>
-                                        <div class="card-body">
-                                            <h5 class="card-title">Helvin says</h5>
-                                            <p class="card-text"><i class="fa fa-quote-left"></i>Kanfetti events planned for my daughter's birthday. it was perfect.<i class="fa fa-quote-right"></i></p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
-                                    <div class="card h-100 bg-dark text-light">
-                                        <div class="row d-flex justify-content-center">
-                                            <img src="images/polland.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                                        </div>
-                                        <div class="card-body">
-                                            <h5 class="card-title">Polland says</h5>
-                                            <p class="card-text"><i class="fa fa-quote-left"></i>If i were to choose a company to do my events, id still choose kanfetti.<i class="fa fa-quote-right"></i></p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <div class="row ">
-                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
-                                    <div class="card h-100 bg-dark text-light">
-                                        <div class="row d-flex justify-content-center">
-                                            <img src="images/merub.jpeg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                                        </div>
-
-                                        <div class="card-body">
-                                            <h5 class="card-title">Merub says,</h5>
-                                            <p class="card-text"><i class="fa fa-quote-left"></i>In my life, i've had to contract different organizations to do different events due to my nature of work. But since i met Kanfetti events, i have had to look no more<i class="fa fa-quote-right"></i></p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
-                                    <div class="card h-100 bg-dark text-light">
-                                        <div class="row d-flex justify-content-center">
-                                            <img src="images/helvin.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                                        </div>
-                                        <div class="card-body">
-                                            <h5 class="card-title">Helvin says</h5>
-                                            <p class="card-text"><i class="fa fa-quote-left"></i>Kanfetti events planned for my daughter's birthday. it was perfect.<i class="fa fa-quote-right"></i></p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
-                                    <div class="card h-100 bg-dark text-light">
-                                        <div class="row d-flex justify-content-center">
-                                            <img src="images/polland.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                                        </div>
-                                        <div class="card-body">
-                                            <h5 class="card-title">Polland says</h5>
-                                            <p class="card-text"><i class="fa fa-quote-left"></i>If i were to choose a company to do my events, id still choose kanfetti.<i class="fa fa-quote-right"></i></p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="carousel-item">
-                            <div class="row ">
-                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
-                                    <div class="card h-100 bg-dark text-light">
-                                        <div class="row d-flex justify-content-center">
-                                            <img src="images/merub.jpeg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                                        </div>
-
-                                        <div class="card-body">
-                                            <h5 class="card-title">Merub says,</h5>
-                                            <p class="card-text"><i class="fa fa-quote-left"></i>In my life, i've had to contract different organizations to do different events due to my nature of work. But since i met Kanfetti events, i have had to look no more<i class="fa fa-quote-right"></i></p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
-                                    <div class="card h-100 bg-dark text-light">
-                                        <div class="row d-flex justify-content-center">
-                                            <img src="images/helvin.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                                        </div>
-                                        <div class="card-body">
-                                            <h5 class="card-title">Helvin says</h5>
-                                            <p class="card-text"><i class="fa fa-quote-left"></i>Kanfetti events planned for my daughter's birthday. it was perfect.<i class="fa fa-quote-right"></i></p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
-                                    <div class="card h-100 bg-dark text-light">
-                                        <div class="row d-flex justify-content-center">
-                                            <img src="images/polland.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                                        </div>
-                                        <div class="card-body">
-                                            <h5 class="card-title">Polland says</h5>
-                                            <p class="card-text"><i class="fa fa-quote-left"></i>If i were to choose a company to do my events, id still choose kanfetti.<i class="fa fa-quote-right"></i></p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </button>
-                </div>
-            </div>
-        </div>
         <div class="row">
             <div class="container-fluid">
                 <div class="row text-center text-dark">
                     <h1>meet our team</h1>
                 </div>
                 <div class="row ">
-                    <div class="col-sm-6col-md-4 col-lg-3 d-flex justify-content-center">
-                    <img src="images/ceo.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                    <div class="row">
-                    <span>Marion Chemu | CEO</span>
+                    <div class="col-sm-6col-md-4 col-lg-3 ">
+                        <div class="row d-flex justify-content-center">
+                            <img src="images/ceo.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                        </div>
+                        <div class="row text-center">
+                            <span>Marion Chemu | CEO</span>
+                        </div>
                     </div>
+                    <div class="col-sm-6col-md-4 col-lg-3">
+                        <div class="row d-flex justify-content-center">
+                            <img src="images/ceo2.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                        </div>
+                        <div class="row text-center">
+                            <span>Merub Kosgey | Event Organiser</span>
+                        </div>
                     </div>
-                    <div class="col-sm-6col-md-4 col-lg-3 d-flex justify-content-center">
-                    <img src="images/ceo2.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                    <span>Marion Chemu | CEO</span>
+                    <div class="col-sm-6col-md-4 col-lg-3 ">
+                        <div class="row d-flex justify-content-center">
+                            <img src="images/ceo3.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                        </div>
+                        <div class="row text-center">
+                            <span>Glo Merub | Advisor</span>
+                        </div>
                     </div>
-                    <div class="col-sm-6col-md-4 col-lg-3 d-flex justify-content-center">
-                    <img src="images/ceo3.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                    <span>Marion Chemu | CEO</span>
+                    <div class="col-sm-6col-md-4 col-lg-3">
+                        <div class="row d-flex justify-content-center">
+                            <img src="images/ceo4.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                        </div>
+                        <div class="row text-center">
+                            <span>Madeline Aswani | Fashion designer</span>
+                        </div>
                     </div>
-                    <div class="col-sm-6col-md-4 col-lg-3 d-flex justify-content-center">
-                    <img src="images/ceo4.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                    <span>Marion Chemu | CEO</span>
+                </div>
+                <div class="row ">
+                    <div class="col-sm-6col-md-4 col-lg-3 ">
+                        <div class="row d-flex justify-content-center">
+                            <img src="images/ceo.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                        </div>
+                        <div class="row text-center">
+                            <span>Marion Chemu | CEO</span>
+                        </div>
                     </div>
+                    <div class="col-sm-6col-md-4 col-lg-3">
+                        <div class="row d-flex justify-content-center">
+                            <img src="images/ceo2.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                        </div>
+                        <div class="row text-center">
+                            <span>Merub Kosgey | Event Organiser</span>
+                        </div>
+                    </div>
+                    <div class="col-sm-6col-md-4 col-lg-3 ">
+                        <div class="row d-flex justify-content-center">
+                            <img src="images/ceo3.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                        </div>
+                        <div class="row text-center">
+                            <span>Glo Merub | Advisor</span>
+                        </div>
+                    </div>
+                    <div class="col-sm-6col-md-4 col-lg-3">
+                        <div class="row d-flex justify-content-center">
+                            <img src="images/ceo4.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                        </div>
+                        <div class="row text-center">
+                            <span>Madeline Aswani | Fashion designer</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row text-center text-dark">
+                    <h1>connect with the team</h1>
                 </div>
                 <div class="row  d-flex align-items-center">
                     <div class="col-sm-6 col-md-6 col-lg-6 ">
@@ -281,14 +188,263 @@
                         </div>
                     </div>
                 </div>
+                <div class="row text-center text-dark">
+                    <h1>testimonials</h1>
+                </div>
+                <div class="container carol" style="background:linear-gradient(-100deg,white 43%, #ffa54f 50%);">
+                    <div class="row ">
+                        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+                            <div class="carousel-indicators">
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                            </div>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <div class="row ">
+                                        <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                            <div class="card h-100 bg-dark text-light">
+                                                <div class="row d-flex justify-content-center">
+                                                    <img src="images/merub.jpeg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                                </div>
+
+                                                <div class="card-body">
+                                                    <h5 class="card-title">Merub says,</h5>
+                                                    <p class="card-text"><i class="fa fa-quote-left"></i>In my life, i've had to contract different organizations to do different events due to my nature of work. But since i met Kanfetti events, i have had to look no more<i class="fa fa-quote-right"></i></p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                            <div class="card h-100 bg-dark text-light">
+                                                <div class="row d-flex justify-content-center">
+                                                    <img src="images/helvin.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                                </div>
+                                                <div class="card-body">
+                                                    <h5 class="card-title">Helvin says</h5>
+                                                    <p class="card-text"><i class="fa fa-quote-left"></i>Kanfetti events planned for my daughter's birthday. it was perfect.<i class="fa fa-quote-right"></i></p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                            <div class="card h-100 bg-dark text-light">
+                                                <div class="row d-flex justify-content-center">
+                                                    <img src="images/polland.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                                </div>
+                                                <div class="card-body">
+                                                    <h5 class="card-title">Polland says</h5>
+                                                    <p class="card-text"><i class="fa fa-quote-left"></i>If i were to choose a company to do my events, id still choose kanfetti.<i class="fa fa-quote-right"></i></p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="carousel-item">
+                                    <div class="row ">
+                                        <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                            <div class="card h-100 bg-dark text-light">
+                                                <div class="row d-flex justify-content-center">
+                                                    <img src="images/merub.jpeg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                                </div>
+
+                                                <div class="card-body">
+                                                    <h5 class="card-title">Merub says,</h5>
+                                                    <p class="card-text"><i class="fa fa-quote-left"></i>In my life, i've had to contract different organizations to do different events due to my nature of work. But since i met Kanfetti events, i have had to look no more<i class="fa fa-quote-right"></i></p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                            <div class="card h-100 bg-dark text-light">
+                                                <div class="row d-flex justify-content-center">
+                                                    <img src="images/helvin.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                                </div>
+                                                <div class="card-body">
+                                                    <h5 class="card-title">Helvin says</h5>
+                                                    <p class="card-text"><i class="fa fa-quote-left"></i>Kanfetti events planned for my daughter's birthday. it was perfect.<i class="fa fa-quote-right"></i></p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                            <div class="card h-100 bg-dark text-light">
+                                                <div class="row d-flex justify-content-center">
+                                                    <img src="images/polland.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                                </div>
+                                                <div class="card-body">
+                                                    <h5 class="card-title">Polland says</h5>
+                                                    <p class="card-text"><i class="fa fa-quote-left"></i>If i were to choose a company to do my events, id still choose kanfetti.<i class="fa fa-quote-right"></i></p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="carousel-item">
+                                    <div class="row ">
+                                        <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                            <div class="card h-100 bg-dark text-light">
+                                                <div class="row d-flex justify-content-center">
+                                                    <img src="images/merub.jpeg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                                </div>
+
+                                                <div class="card-body">
+                                                    <h5 class="card-title">Merub says,</h5>
+                                                    <p class="card-text"><i class="fa fa-quote-left"></i>In my life, i've had to contract different organizations to do different events due to my nature of work. But since i met Kanfetti events, i have had to look no more<i class="fa fa-quote-right"></i></p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                            <div class="card h-100 bg-dark text-light">
+                                                <div class="row d-flex justify-content-center">
+                                                    <img src="images/helvin.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                                </div>
+                                                <div class="card-body">
+                                                    <h5 class="card-title">Helvin says</h5>
+                                                    <p class="card-text"><i class="fa fa-quote-left"></i>Kanfetti events planned for my daughter's birthday. it was perfect.<i class="fa fa-quote-right"></i></p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                            <div class="card h-100 bg-dark text-light">
+                                                <div class="row d-flex justify-content-center">
+                                                    <img src="images/polland.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                                </div>
+                                                <div class="card-body">
+                                                    <h5 class="card-title">Polland says</h5>
+                                                    <p class="card-text"><i class="fa fa-quote-left"></i>If i were to choose a company to do my events, id still choose kanfetti.<i class="fa fa-quote-right"></i></p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
 
             </div>
+        </div>
+        <div class="row bg-dark text-light">
+            <div class="col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center">
+                <h4>Kanfetti Events</h4>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+                <div class="row">
+                    <h4>Services</h4>
+                </div>
+                <div class="row">
+                    <a href="#">Outdoor Wedding</a>
+                </div>
+                <div class="row">
+                    <a href="#"> Indoor Wedding</a>
+                </div>
+                <div class="row">
+                    <a href="#"> Outdoor Birthday</a>
+                </div>
+                <div class="row">
+                    <a href="#">Indoor Birthday</a>
+                </div>
+                <div class="row">
+                    <a href="#">Traditional Ceremonies</a>
+                </div>
+                <div class="row">
+                    <a href="#">Other events</a>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+                <div class="row">
+                    <h4>Useful links</h4>
+                </div>
+                <div class="row">
+                    <a href="#">Home</a>
+                </div>
+                <div class="row">
+                    <a href="#">About us</a>
+                </div>
+                <div class="row">
+                    <a href="#">Contact us</a>
+                </div>
+                <div class="row">
+                    <a href="#">Blog</a>
+                </div>
+                <div class="row">
+                    <a href="#">Home</a>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+                <div class="row">
+                    <h4>Contact us</h4>
+                </div>
+                <div class="row">
+                    <i class="fa fa-home" style="font-size:24px"></i> <span>1223 Nairobi | Kenya</span>
+                </div>
+                <div class="row">
+                    <i class="fa fa-envelope-o" style="font-size:24px"></i><span>marionchemu@gmail.com</span>
+                </div>
+                <div class="row">
+                    <i class="fa fa-phone-square" style="font-size:24px"></i><span> 0795836437</span>
+                </div>
+            </div>
+            
+        </div>
+        <div class="row bg-light text-center text-dark">
+                <h4>Connect with us on our social platforms</h4>
+                <div class="col-sm-8 col-md-6 col-lg-3"></div>
+                <div class=" col-sm-8 col-md-6 col-lg-6">
+                    <span><a href="#"><i class="fa-brands fa-google m-3"></i></a></span>
+                    <span><a href="#"><i class="fa-brands fa-linkedin m-3"></i></a></span>
+                    <span><a href="#"><i class="fa-brands fa-square-twitter m-3"></i></a></span>
+                    <span><a href="#"><i class="fa-brands fa-square-facebook m-3"></i></a></span>
+                    <span><a href="#"><i class="fa-brands fa-github m-3"></i></a></span>
+                    <div class="row">
+                        <h5>subscribe to receive our monthly newsletters</h5>
+                        <form class="row text-center m-3">
+                            <div class="col-auto">
+                                <label for=" Your Email" class="visually-hidden"></label>
+                                <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="Your Email">
+                            </div>
+                            <div class="col-auto">
+                                <label for="inputPassword2" class="visually-hidden">Password</label>
+                                <input type="password" class="form-control" id="inputPassword2" placeholder="Password">
+                            </div>
+                            <div class="col-auto">
+                                <button type="submit" class="btn btn-dark mb-3">Subsribe</button>
+                            </div>
+                        </form>
+                    </div>
+
+                </div>
+                <div class="col-sm-8 col-md-6 col-lg-3"></div>
+
+            </div>
+        <div class="row  m-4">
+            <div class="col-sm-6 col-md-4 col-lg-2"></div>
+            <div class="col-sm-6 col-md-4 col-lg-8 text-center">@2022 copyright Event planners- Kanfetti</div>
+            <div class="col-sm-6 col-md-4 col-lg-2"></div>
+
         </div>
 
 
 
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://kit.fontawesome.com/9fbf7b4462.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
