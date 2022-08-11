@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* font-family: 'Open Sans', sans-serif; */
+}
+.rowcover img{
+    max-width: 100%;
+    
+}
+.coverpage{
+    position: relative;
+}
+.text{
+    position: absolute;
+    top: 200px;
+    font-family: 'Alumni Sans Inline One', cursive;
+    
+}
+.carding{
+    background-image: url('../images/team.jpg');
+    background-size: cover;
+}
+.carol{
+    background:linear-gradient(-100deg,white 50%, yellow 50%);
+}
+.cardrad{
+    border-radius: 60%;
+}
