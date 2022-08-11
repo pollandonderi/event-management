@@ -45,7 +45,7 @@
                     <ul class="navbar-nav">
                         <li class=" nav-item active">
                             <a href="#" class="nav-link active">
-                                home
+                                home.
                             </a>
                         </li>
                         <li class=" nav-item">
