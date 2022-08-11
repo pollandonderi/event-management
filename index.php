@@ -21,7 +21,7 @@
 
     <div class="container-fluid">
         <div class="row">
-            <nav class="navbar fixed-top navbar-expand-sm navbar-light bg-light">
+            <nav class="navbar fixed-top navbar-expand-sm navbar-dark bg-dark">
                 <a href="home.php" class="navbar-brand mb-0">
                     <img src="./images/eventlogo.jpeg" class="d-inline-block align-top" width="40" height="30" alt="">
 
@@ -36,7 +36,7 @@
                     <form class="form-inline">
                         <input class=" mr-sm-2" type="search" placeholder="what are you looking for?" aria-label="Search">
                         <button class="btn btn-outline-" type="submit">
-                            <i class="fa fa-search" style="font-size:24px"></i>
+                            <i class="fa fa-search text-light" style="font-size:24px"></i>
                         </button>
                     </form>
 
@@ -93,75 +93,175 @@
             </div>
         </div>
         <div class="container carol" style="background:linear-gradient(-100deg,white 43%, #ffa54f 50%);">
-        <div class="row ">
-            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
-                <div class="carousel-indicators">
-                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                </div>
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <div class="row ">
-                            <div class="col-sm-6 col-md-5 col-lg-4 text-center">
-                                <div class="card h-100" >
-                                    <div class="row d-flex justify-content-center">
-                                    <img src="images/merub.jpeg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+            <div class="row ">
+                <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+                    <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                    </div>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="row ">
+                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                    <div class="card h-100 bg-dark text-light">
+                                        <div class="row d-flex justify-content-center">
+                                            <img src="images/merub.jpeg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                        </div>
+
+                                        <div class="card-body">
+                                            <h5 class="card-title">Merub says,</h5>
+                                            <p class="card-text"><i class="fa fa-quote-left"></i>In my life, i've had to contract different organizations to do different events due to my nature of work. But since i met Kanfetti events, i have had to look no more<i class="fa fa-quote-right"></i></p>
+
+                                        </div>
                                     </div>
-                                    
-                                    <div class="card-body">
-                                        <h5 class="card-title">Merub says,</h5>
-                                        <p class="card-text"><i class="fa fa-quote-left"></i>Some quick example text to build on the card title and make up the bulk of the card's content.<i class="fa fa-quote-right"></i></p>
-                                        
+                                </div>
+                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                    <div class="card h-100 bg-dark text-light">
+                                        <div class="row d-flex justify-content-center">
+                                            <img src="images/helvin.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">Helvin says</h5>
+                                            <p class="card-text"><i class="fa fa-quote-left"></i>Kanfetti events planned for my daughter's birthday. it was perfect.<i class="fa fa-quote-right"></i></p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                    <div class="card h-100 bg-dark text-light">
+                                        <div class="row d-flex justify-content-center">
+                                            <img src="images/polland.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">Polland says</h5>
+                                            <p class="card-text"><i class="fa fa-quote-left"></i>If i were to choose a company to do my events, id still choose kanfetti.<i class="fa fa-quote-right"></i></p>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-md-5 col-lg-4 text-center">
-                            <div class="card h-100" >
-                            <div class="row d-flex justify-content-center">
-                                    <img src="images/helvin.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row ">
+                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                    <div class="card h-100 bg-dark text-light">
+                                        <div class="row d-flex justify-content-center">
+                                            <img src="images/merub.jpeg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                        </div>
+
+                                        <div class="card-body">
+                                            <h5 class="card-title">Merub says,</h5>
+                                            <p class="card-text"><i class="fa fa-quote-left"></i>In my life, i've had to contract different organizations to do different events due to my nature of work. But since i met Kanfetti events, i have had to look no more<i class="fa fa-quote-right"></i></p>
+
+                                        </div>
                                     </div>
-                                    <div class="card-body">
-                                        <h5 class="card-title">Card title</h5>
-                                        <p class="card-text"><i class="fa fa-quote-left"></i>Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                        
+                                </div>
+                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                    <div class="card h-100 bg-dark text-light">
+                                        <div class="row d-flex justify-content-center">
+                                            <img src="images/helvin.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">Helvin says</h5>
+                                            <p class="card-text"><i class="fa fa-quote-left"></i>Kanfetti events planned for my daughter's birthday. it was perfect.<i class="fa fa-quote-right"></i></p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                    <div class="card h-100 bg-dark text-light">
+                                        <div class="row d-flex justify-content-center">
+                                            <img src="images/polland.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">Polland says</h5>
+                                            <p class="card-text"><i class="fa fa-quote-left"></i>If i were to choose a company to do my events, id still choose kanfetti.<i class="fa fa-quote-right"></i></p>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-md-5 col-lg-4 text-center">
-                            <div class="card h-100" >
-                            <div class="row d-flex justify-content-center">
-                                    <img src="images/polland.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                        </div>
+
+                        <div class="carousel-item">
+                            <div class="row ">
+                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                    <div class="card h-100 bg-dark text-light">
+                                        <div class="row d-flex justify-content-center">
+                                            <img src="images/merub.jpeg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                        </div>
+
+                                        <div class="card-body">
+                                            <h5 class="card-title">Merub says,</h5>
+                                            <p class="card-text"><i class="fa fa-quote-left"></i>In my life, i've had to contract different organizations to do different events due to my nature of work. But since i met Kanfetti events, i have had to look no more<i class="fa fa-quote-right"></i></p>
+
+                                        </div>
                                     </div>
-                                    <div class="card-body">
-                                        <h5 class="card-title">Merub says</h5>
-                                        <p class="card-text"><i class="fa fa-quote-left"></i>Some quick example text to build on the card title and make up the bulk of the card's content.<i class="fa fa-quote-right"></i></p>
-                                        
+                                </div>
+                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                    <div class="card h-100 bg-dark text-light">
+                                        <div class="row d-flex justify-content-center">
+                                            <img src="images/helvin.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">Helvin says</h5>
+                                            <p class="card-text"><i class="fa fa-quote-left"></i>Kanfetti events planned for my daughter's birthday. it was perfect.<i class="fa fa-quote-right"></i></p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-5 col-lg-4 text-center">
+                                    <div class="card h-100 bg-dark text-light">
+                                        <div class="row d-flex justify-content-center">
+                                            <img src="images/polland.JPG" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">Polland says</h5>
+                                            <p class="card-text"><i class="fa fa-quote-left"></i>If i were to choose a company to do my events, id still choose kanfetti.<i class="fa fa-quote-right"></i></p>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="carousel-item">
-                        <img src="..." class="d-block w-100" alt="...">
-                    </div>
-                    <div class="carousel-item">
-                        <img src="..." class="d-block w-100" alt="...">
-                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Next</span>
-                </button>
             </div>
-        </div>
         </div>
         <div class="row">
             <div class="container-fluid">
+                <div class="row text-center text-dark">
+                    <h1>meet our team</h1>
+                </div>
+                <div class="row ">
+                    <div class="col-sm-6col-md-4 col-lg-3 d-flex justify-content-center">
+                    <img src="images/ceo.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                    <div class="row">
+                    <span>Marion Chemu | CEO</span>
+                    </div>
+                    </div>
+                    <div class="col-sm-6col-md-4 col-lg-3 d-flex justify-content-center">
+                    <img src="images/ceo2.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                    <span>Marion Chemu | CEO</span>
+                    </div>
+                    <div class="col-sm-6col-md-4 col-lg-3 d-flex justify-content-center">
+                    <img src="images/ceo3.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                    <span>Marion Chemu | CEO</span>
+                    </div>
+                    <div class="col-sm-6col-md-4 col-lg-3 d-flex justify-content-center">
+                    <img src="images/ceo4.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
+                    <span>Marion Chemu | CEO</span>
+                    </div>
+                </div>
                 <div class="row  d-flex align-items-center">
                     <div class="col-sm-6 col-md-6 col-lg-6 ">
                         <!-- <img src="../images/whateverplan.jpg" alt="planning" srcset="" class="covered" style="background-size:cover ;"> -->
@@ -169,7 +269,7 @@
                             <div class="card-body ">
                                 <h5 class="card-title text-center">In Your every dream,</h5>
                                 <p class="card-text">We make it a reality so you do not have to dream anymore</p>
-                                <a href="#" class="btn btn-secondary">Connect with our team</a>
+                                <a href="#" class="btn btn-dark">Connect with our team</a>
                             </div>
                         </div>
                     </div>
