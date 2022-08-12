@@ -1,7 +1,13 @@
 *{
+   
+    /* box-sizing: border-box; */
+    /* font-family: 'Poppins', sans-serif; */
+    /* font-family: 'Open Sans', sans-serif; */
+}
+body{
+    font-family: 'Poppins', sans-serif;
     padding: 0;
     margin: 0;
-    /* font-family: 'Open Sans', sans-serif; */
 }
 .rowcover img{
     max-width: 100%;
@@ -25,4 +31,16 @@
 }
 .cardrad{
     border-radius: 60%;
+}
+.section{
+    height: 100vh;
+}
+.container{
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+
+
+}
+.section{
+    scroll-snap-align: start;
 }

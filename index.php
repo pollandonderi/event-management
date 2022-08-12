@@ -12,6 +12,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet" <meta charset="UTF-8">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>kanfetti Event Planners</title>
@@ -83,8 +86,8 @@
         <div class="row">
             <h1>...</h1>
         </div>
-        <div class="row coverpage">
-            <img src="images/cover.jpg" alt="" srcset="" style="height: 600px;">
+        <div class="row coverpage section">
+            <img src="images/cover.jpg" alt="" srcset="" style="height: 650px;">
             <div class="text text-white">
                 <h1 class="m-4">for your events</h1>
                 <h1 class="text-dark m-4">we,ve got you</h1>
@@ -92,10 +95,21 @@
                 <button type="button" class="btn btn-dark m-4">Join us</button>
             </div>
         </div>
+        <div class="conainer bg-dark">
+            <div class="section">
+                <div class="row text-center text-light">
+                    <h1>what we do:</h1>
+                </div>
+                <div class="row">
+                    
+                </div>
+            </div>
+        </div>
+
 
         <div class="row">
             <div class="container-fluid">
-                <div class="row text-center text-dark">
+                <div class="row text-center text-dark m-3">
                     <h1>meet our team</h1>
                 </div>
                 <div class="row ">
@@ -132,40 +146,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row ">
-                    <div class="col-sm-6col-md-4 col-lg-3 ">
-                        <div class="row d-flex justify-content-center">
-                            <img src="images/ceo.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                        </div>
-                        <div class="row text-center">
-                            <span>Marion Chemu | CEO</span>
-                        </div>
-                    </div>
-                    <div class="col-sm-6col-md-4 col-lg-3">
-                        <div class="row d-flex justify-content-center">
-                            <img src="images/ceo2.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                        </div>
-                        <div class="row text-center">
-                            <span>Merub Kosgey | Event Organiser</span>
-                        </div>
-                    </div>
-                    <div class="col-sm-6col-md-4 col-lg-3 ">
-                        <div class="row d-flex justify-content-center">
-                            <img src="images/ceo3.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                        </div>
-                        <div class="row text-center">
-                            <span>Glo Merub | Advisor</span>
-                        </div>
-                    </div>
-                    <div class="col-sm-6col-md-4 col-lg-3">
-                        <div class="row d-flex justify-content-center">
-                            <img src="images/ceo4.jpg" height="200" class="card-img-top cardrad" alt="..." style="width: 200px;">
-                        </div>
-                        <div class="row text-center">
-                            <span>Madeline Aswani | Fashion designer</span>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="row text-center text-dark">
                     <h1>connect with the team</h1>
                 </div>
@@ -188,7 +169,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row text-center text-dark">
+                <div class="row text-center text-dark m-3">
                     <h1>testimonials</h1>
                 </div>
                 <div class="container carol" style="background:linear-gradient(-100deg,white 43%, #ffa54f 50%);">
@@ -340,6 +321,10 @@
 
             </div>
         </div>
+        <div class="row text-center m-3">
+            <h3>request for a discovery session? | Need help?</h3>
+            <span><i class="fa-solid fa-headset" style="font-size:34px;"></i></span>
+        </div>
         <div class="row bg-dark text-light">
             <div class="col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center">
                 <h4>Kanfetti Events</h4>
@@ -401,38 +386,38 @@
                     <i class="fa fa-phone-square" style="font-size:24px"></i><span> 0795836437</span>
                 </div>
             </div>
-            
+
         </div>
         <div class="row bg-light text-center text-dark">
-                <h4>Connect with us on our social platforms</h4>
-                <div class="col-sm-8 col-md-6 col-lg-3"></div>
-                <div class=" col-sm-8 col-md-6 col-lg-6">
-                    <span><a href="#"><i class="fa-brands fa-google m-3"></i></a></span>
-                    <span><a href="#"><i class="fa-brands fa-linkedin m-3"></i></a></span>
-                    <span><a href="#"><i class="fa-brands fa-square-twitter m-3"></i></a></span>
-                    <span><a href="#"><i class="fa-brands fa-square-facebook m-3"></i></a></span>
-                    <span><a href="#"><i class="fa-brands fa-github m-3"></i></a></span>
-                    <div class="row">
-                        <h5>subscribe to receive our monthly newsletters</h5>
-                        <form class="row text-center m-3">
-                            <div class="col-auto">
-                                <label for=" Your Email" class="visually-hidden"></label>
-                                <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="Your Email">
-                            </div>
-                            <div class="col-auto">
-                                <label for="inputPassword2" class="visually-hidden">Password</label>
-                                <input type="password" class="form-control" id="inputPassword2" placeholder="Password">
-                            </div>
-                            <div class="col-auto">
-                                <button type="submit" class="btn btn-dark mb-3">Subsribe</button>
-                            </div>
-                        </form>
-                    </div>
-
+            <h4>Connect with us on our social platforms</h4>
+            <div class="col-sm-8 col-md-6 col-lg-3"></div>
+            <div class=" col-sm-8 col-md-6 col-lg-6">
+                <span><a href="#"><i class="fa-brands fa-google m-3"></i></a></span>
+                <span><a href="#"><i class="fa-brands fa-linkedin m-3"></i></a></span>
+                <span><a href="#"><i class="fa-brands fa-square-twitter m-3"></i></a></span>
+                <span><a href="#"><i class="fa-brands fa-square-facebook m-3"></i></a></span>
+                <span><a href="#"><i class="fa-brands fa-github m-3"></i></a></span>
+                <div class="row">
+                    <h5>subscribe to receive our monthly newsletters</h5>
+                    <form class="row text-center m-3">
+                        <div class="col-auto">
+                            <label for=" Your Email" class="visually-hidden"></label>
+                            <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="Your Email">
+                        </div>
+                        <div class="col-auto">
+                            <label for="inputPassword2" class="visually-hidden">Password</label>
+                            <input type="password" class="form-control" id="inputPassword2" placeholder="Password">
+                        </div>
+                        <div class="col-auto">
+                            <button type="submit" class="btn btn-dark mb-3">Subsribe</button>
+                        </div>
+                    </form>
                 </div>
-                <div class="col-sm-8 col-md-6 col-lg-3"></div>
 
             </div>
+            <div class="col-sm-8 col-md-6 col-lg-3"></div>
+
+        </div>
         <div class="row  m-4">
             <div class="col-sm-6 col-md-4 col-lg-2"></div>
             <div class="col-sm-6 col-md-4 col-lg-8 text-center">@2022 copyright Event planners- Kanfetti</div>
